@@ -1,2 +1,0 @@
-# CopaArgentum
-Ranking
